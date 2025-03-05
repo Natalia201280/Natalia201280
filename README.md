@@ -5,8 +5,6 @@
 
 🚀 **Tech Hiring Expert** | 🎯 **Talent Acquisition & Sourcing** | 🤝 **Building High-Performing Teams**  
 
----
-
 ## 📌 About Me  
 
 I am a **Senior IT Recruiter** with **6+ years of experience** in full-cycle technical recruitment. My expertise lies in sourcing, interviewing, and hiring **top-tier engineers** to drive business success. Passionate about **data-driven recruitment**, process optimization, and enhancing candidate experience.  
