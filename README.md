@@ -1,6 +1,4 @@
-![BMO Wave](https://media.giphy.com/media/5xaOcLOqNmLZl3MnJsk/giphy.gif)
-
-
+![Winnie the Pooh](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 
 ### Hi there! Welcome to my GitHub profile.  
 
