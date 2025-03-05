@@ -1,4 +1,5 @@
-![Cute Cat Wave](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+![BMO Wave](https://media.giphy.com/media/5xaOcLOqNmLZl3MnJsk/giphy.gif)
+
 
 
 ### Hi there! Welcome to my GitHub profile.  
