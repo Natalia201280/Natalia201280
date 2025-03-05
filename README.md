@@ -19,7 +19,6 @@ I am a **Senior IT Recruiter** with **6+ years of experience** in full-cycle tec
 ## ⚡ What I Do  
 
 - 🎯 **Full-cycle recruitment** – from sourcing to closing  
-- 🔍 **Building talent pipelines** for hard-to-fill tech roles  
 - 🤖 **Leveraging automation & AI tools** for smarter hiring  
 - 🧠 **Competency-based interviewing** (STAR, Perla, 360, A-player)  
 - 📊 **Data-driven hiring decisions** & analytics  
