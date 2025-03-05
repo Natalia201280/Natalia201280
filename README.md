@@ -1,6 +1,7 @@
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-![Typing Fast](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+![Recruiting Mode](https://media.giphy.com/media/3o6ZsYm5OKi6YRLGp6/giphy.gif)
+
 
 
 
