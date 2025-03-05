@@ -1,11 +1,4 @@
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-![Interview](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-
-
-
-
-
+![Cute Cat Wave](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 
 ### Hi there! Welcome to my GitHub profile.  
