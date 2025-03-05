@@ -1,4 +1,7 @@
 # ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+![Banner](https://your-image-link.com/banner.gif)
+
+
 # 👩‍💼 Nataliia Shelepko | Senior IT Recruiter @WebbyLab  
 
 🚀 **Tech Hiring Expert** | 🎯 **Talent Acquisition & Sourcing** | 🤝 **Building High-Performing Teams**  
