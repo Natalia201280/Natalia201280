@@ -33,11 +33,6 @@ I am a **Senior IT Recruiter** with **6+ years of experience** in full-cycle tec
 We are always looking for talented engineers to join WebbyLab!  
 📢 **Open positions:** [WebbyLab Vacancies](https://webbylab.com/vacancies/)  
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalia201280&show_icons=true&theme=dracula)  
 
 ---
 
