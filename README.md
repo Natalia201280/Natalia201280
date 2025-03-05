@@ -1,6 +1,5 @@
 # ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
-![Banner](https://your-image-link.com/banner.gif)
-
+### Hi there! Welcome to my GitHub profile.  
 
 # 👩‍💼 Nataliia Shelepko | Senior IT Recruiter @WebbyLab  
 
@@ -19,7 +18,8 @@ I am a **Senior IT Recruiter** with **6+ years of experience** in full-cycle tec
 
 ## ⚡ What I Do  
 
-- 🎯 **Full-cycle recruitment** – from sourcing to closing   
+- 🎯 **Full-cycle recruitment** – from sourcing to closing  
+- 🔍 **Building talent pipelines** for hard-to-fill tech roles  
 - 🤖 **Leveraging automation & AI tools** for smarter hiring  
 - 🧠 **Competency-based interviewing** (STAR, Perla, 360, A-player)  
 - 📊 **Data-driven hiring decisions** & analytics  
@@ -31,7 +31,8 @@ I am a **Senior IT Recruiter** with **6+ years of experience** in full-cycle tec
 
 - 📌 Transitioning into **Recruitment Leadership**  
 - 🛠️ **Developing an Interview Training Program** for hiring managers  
-- 📚 **Expanding technical knowledge** (React, Node.js, React Native, PHP, Perl, C/C++)   
+- 📚 **Expanding technical knowledge** (React, Node.js, React Native)  
+- 🌍 **Improving English to C1**  
 - 📊 **Enhancing recruitment through data analytics**  
 
 ---
