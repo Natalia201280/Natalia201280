@@ -14,8 +14,6 @@ I am a **Senior IT Recruiter** with **6+ years of experience** in full-cycle tec
 💡 **Currently Hiring:** React, Node.js, React Native, WordPress, PHP, Perl Engineers  
 🔎 **Specialized In:** Middle/Senior Tech Hiring | Boolean Search | Interviewing | Employer Branding  
 
----
-
 ## ⚡ What I Do  
 
 - 🎯 **Full-cycle recruitment** – from sourcing to closing  
@@ -24,14 +22,10 @@ I am a **Senior IT Recruiter** with **6+ years of experience** in full-cycle tec
 - 📊 **Data-driven hiring decisions** & analytics  
 - 👥 **Mentoring hiring managers** on interview techniques  
 
----
-
 ## 🎯 My Goals  
 
 - 📌 Transitioning into **Recruitment Leadership**  
-- 🛠️ **Developing an Interview Training Program** for hiring managers  
-- 📚 **Expanding technical knowledge** (React, Node.js, React Native)  
-- 🌍 **Improving English to C1**  
+- 🛠️ **Developing an Interview Training Program** for hiring managers   
 - 📊 **Enhancing recruitment through data analytics**  
 
 ---
