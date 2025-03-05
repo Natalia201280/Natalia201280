@@ -1,6 +1,7 @@
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-![Deploying](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
+![Typing Fast](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+
 
 
 ### Hi there! Welcome to my GitHub profile.  
